@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áéŒÎùÿÿÿÿ8Óôˆõ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œåÊİ8Óôˆõ¯.
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(œ¢”ë8Óôˆõ¯.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÓÒâ°8É÷Çì².
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í¤¨•üÿÿÿÿ8ûà¸õ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ş©ë¯8Óôˆõ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï…É¦øÿÿÿÿ8Óôˆõ¯.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ï…É¦øÿÿÿÿ8Óôˆõ¯.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Óôˆõ¯.
+Q
+java:S1611!"5Remove the parentheses around the "message" parameter(ã—;8Óôˆõ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÈ‚8Óôˆõ¯.

@@ -1,0 +1,48 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(„Ü™”8ïÒÑÍ°.
+I
+java:S1612;",Replace this lambda with a method reference.(“ˆé¯8ùóÒÍ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞÔë8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹­›Éÿÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Í¹ûÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Üüæ‰ûÿÿÿÿ8ïÒÑÍ°.
+N
+java:S1612(",Replace this lambda with a method reference.(¸¹¿Ëûÿÿÿÿ8ùóÒÍ°.
+M
+java:S3740Š"/Provide the parametrized type for this generic.(ŠÜÂ8ùóÒÍ°.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ä½×Ì8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëüÒøÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óö‚Øøÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ü³Äşÿÿÿÿ8ïÒÑÍ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïÈü8ïÒÑÍ°.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(õÉçá8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äŠ¯¨üÿÿÿÿ8ïÒÑÍ°.
+Q
+java:S1874l"/Remove this use of "Integer"; it is deprecated.(Ùô‚ùúÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(“Í¹ûÿÿÿÿ8ïÒÑÍ°.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ïÒÑÍ°.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¦Õˆı8ïÒÑÍ°.
+L
+java:S16113"/Remove the parentheses around the "x" parameter(ïóò8ïÒÑÍ°.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(úˆÏ¨ıÿÿÿÿ8ïÒÑÍ°.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(şùÙ¸ùÿÿÿÿ8ïÒÑÍ°.
+{
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(àĞğùÿÿÿÿ8ïÒÑÍ°.
+v
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(­—×Û8ïÒÑÍ°.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ğşêçùÿÿÿÿ8ïÒÑÍ°.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(­Â˜Ôúÿÿÿÿ8ïÒÑÍ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦Õˆı8ïÒÑÍ°.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Üüæ‰ûÿÿÿÿ8ïÒÑÍ°.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ş²¤şÿÿÿÿ8ïÒÑÍ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„Ü™”8ïÒÑÍ°.
+C
+java:S2129l"!Remove this "Integer" constructor(Ùô‚ùúÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆ×ˆ şÿÿÿÿ8ïÒÑÍ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Èø¯üùÿÿÿÿ8ïÒÑÍ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õÉçá8ïÒÑÍ°.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(şùÙ¸ùÿÿÿÿ8ïÒÑÍ°.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ÎÌ–áÿÿÿÿÿ8ïÒÑÍ°.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Â™ıû8ïÒÑÍ°.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(õ¢ƒşúÿÿÿÿ8ïÒÑÍ°.
